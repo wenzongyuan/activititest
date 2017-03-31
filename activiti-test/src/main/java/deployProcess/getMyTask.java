@@ -16,7 +16,7 @@ public class getMyTask {
 @Test
 public void getMyTask(){
 	//办理人名称 
-	String m_Assignee="张三";
+	String m_Assignee="李四";
 	Task m_task=c_ProcessEngine.getTaskService().createTaskQuery().taskAssignee(m_Assignee).singleResult();
 	System.out.println("任務ID："+m_task.getId());
 	System.out.println("任務名稱："+m_task.getName());
