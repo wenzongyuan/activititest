@@ -1,4 +1,4 @@
-package deployProcess;
+package ProcessBasic;
 
 import org.activiti.engine.ProcessEngine;
 import org.activiti.engine.ProcessEngines;

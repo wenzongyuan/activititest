@@ -11,7 +11,7 @@
 	<classpathentry kind="lib" path="lib/activiti-bpmn-layout-5.13.jar"/>
 	<classpathentry kind="lib" path="lib/activiti-bpmn-model-5.13.jar"/>
 	<classpathentry kind="lib" path="lib/activiti-common-rest-5.13.jar"/>
-	<classpathentry kind="lib" path="lib/activiti-engine-5.13.jar"/>
+	<classpathentry kind="lib" path="lib/activiti-engine-5.13.jar" sourcepath="D:/JAVA/传智播客_Activiti工作流视频（企业开发实例讲解）/activiti工作流/activiti工作流/activiti资料/install/activiti-5.13/libs/activiti-engine-5.13-sources.jar"/>
 	<classpathentry kind="lib" path="lib/activiti-json-converter-5.13.jar"/>
 	<classpathentry kind="lib" path="lib/activiti-rest-5.13.jar"/>
 	<classpathentry kind="lib" path="lib/activiti-simple-workflow-5.13.jar"/>

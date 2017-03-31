@@ -1,4 +1,4 @@
-package deployProcess;
+package ProcessBasic;
 
 import org.activiti.engine.ProcessEngine;
 import org.activiti.engine.ProcessEngines;
@@ -15,7 +15,7 @@ public class completeTask {
    @Test
     public void completeMyTask(){
 	//任務ID
-	String m_TaskId="304";
+	String m_TaskId="602";
 	c_ProcessEngine.getTaskService().complete(m_TaskId);
 	System.out.println("完成任務！");
     }
